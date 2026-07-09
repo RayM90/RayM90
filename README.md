@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Raymar%20Martinez&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5A3C,50:C9974A,100:D4A574&height=200&section=header&text=Raymar%20Martinez&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer&descSize=20&descAlignY=65)
 
-<img src="https://github.com/RayM90/RayM90/blob/main/assets/profile.jpg?raw=true" width="150" style="border-radius:50%">
+<img src="https://github.com/RayM90/RayM90/blob/main/profile.jpg?raw=true" width="150" style="border-radius:50%">
 
 <h3>Desarrolladora Full-Stack | TSU en Informática</h3>
 
